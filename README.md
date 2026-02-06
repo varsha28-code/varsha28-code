@@ -32,13 +32,13 @@ I love solving problems and exploring new technologies!!
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,c,java" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,javascript" />
   <br/>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
 ---
