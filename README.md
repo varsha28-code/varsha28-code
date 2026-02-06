@@ -34,7 +34,7 @@ I love solving problems and exploring new technologies!!
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,react" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,c,java,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,dart" />
   <br/>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   <br/>
