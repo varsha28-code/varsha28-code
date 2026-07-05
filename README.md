@@ -20,9 +20,8 @@ I love solving problems and exploring new technologies!!
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://leetcode.com/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
+  <a href="https://linkedin.com/" target="_blank"><img src="https://linkedin.com/in/akulasrivarsha" /></a>
+  <a href="https://leetcode.com/" target="_blank"><img src="https://leetcode.com/u/_srivarsha-28/" /></a>
 </p>
 
 ---
