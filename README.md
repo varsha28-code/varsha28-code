@@ -1,6 +1,6 @@
 # Bonjour 👋, I'm Srivarsha
 
-I'm a **self-taught Full Stack Developer and ML Developer 🤖**  
+I'm a **self-taught Full Stack Developer and AIML Developer 🤖**  
 I love solving problems and exploring new technologies!!
 
 ---
