@@ -1,6 +1,6 @@
 # Bonjour 👋, I'm Srivarsha
 
-I'm a **self-taught Full Stack Developer and AIML Developer 🤖**  
+I'm a **self-taught Full Stack Developer and ML Developer🤖**  
 I love solving problems and exploring new technologies!!
 
 ---
@@ -9,8 +9,7 @@ I love solving problems and exploring new technologies!!
 
 - 🚀 Aiming to learn new technologies that excite me  
 - 🧠 Enthusiastic developer, creative designer, clever programmer & born problem solver  
-- 🌱 Goals: Contribute to open-source projects that genuinely interest me  
-- ♟️ I love playing chess & solving puzzles 🧩  
+- 🌱 Goals: Contribute to open-source projects that genuinely interest me   
 - 📫 Reach me at: **akulasrivarsha28@gmail.com**
 
 🔗 GitHub: [varsha28-code](https://github.com/varsha28-code)
